@@ -8,6 +8,6 @@ To Compile
 
 Usage
 ====================
-Compression: `java Encoder \<number of bits\> <file> | java BitPacker `
+Compression: `java Encoder <number of bits> <file> | java BitPacker `
 
 Decompression: `java Bitunpacker | java Decoder `
