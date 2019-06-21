@@ -1,2 +1,13 @@
-# Data-Compressor
-Data compressor implemented using LZW algorithm and bit-packing. This is a course project for the paper COMP317 Design and Analysis of Algorithms at University of Waikato.
+Data-Compressor
+====================
+Data compressor implemented using LZW algorithm and bit-packing.
+
+To Compile
+===================
+`javac *.java`
+
+Usage
+====================
+Compression: `java Encoder \<number of bits\> <file> | java BitPacker `
+
+Decompression: `java Bitunpacker | java Decoder `
